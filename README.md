@@ -11,9 +11,9 @@
 ## 📜 Certification  
   
 ## 🛠️ Skills  
-- **Programming: ** Java
-- **Databases: ** SQL
-- **Tools: ** Eclipse, HTML
+- **Programming:** Java
+- **Databases:** SQL
+- **Tools:** Eclipse, HTML
 
 ## ☏ Convinced Already?  
-- **Email: ** drichagustin.3@gmail.com
+- **Email:** drichagustin.3@gmail.com
