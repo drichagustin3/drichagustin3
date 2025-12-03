@@ -10,6 +10,7 @@
 
 ## 📜 Certification  
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/d27c0165ac9346a98f42285dbe14aeea)
+- [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4E21E5DF2EB75574DD28D0B345C4D719B646D1F8796C3C22009BD29AEB1368B7)
   
 ## 🛠️ Skills  
 - **Programming:** Java
